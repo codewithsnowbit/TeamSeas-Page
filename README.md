@@ -1,2 +1,3 @@
 # TeamSeas Ocean Page
-![image](https://user-images.githubusercontent.com/65452005/142757813-24831703-b503-4f0a-bc76-ef0ed9c921b7.png)
+![image](https://user-images.githubusercontent.com/65452005/142757853-8a53f7f6-17ca-48f9-94c6-8d34bcf771df.png)
+
